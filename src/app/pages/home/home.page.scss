@@ -1,0 +1,41 @@
+ion-content{
+    --background: #fff url('src/assets/img/bg.png') no-repeat center center / cover;
+}
+.head{
+    color: grey;
+    margin-top: 26%;
+    font-size: 26px;
+}
+.subhead{
+    font-size: 41px;
+    font-weight: bold;
+    position: relative;
+    left:19%;
+}
+.btn{
+    width: 122px;
+    height: 34px;
+}
+.google{
+    width:90%;
+    height:35px;
+    border-radius: 10px;
+    margin-left: 5%;
+    background: #fff;
+    position: absolute;
+}
+.gimg{
+    position: relative;
+    left: 31%;
+    top: -5px;
+}
+.stick{
+    max-width: 100%;
+    position: relative;
+    border: 0;
+    left: 10px;
+    top: 5px;
+}
+ion-button{
+    text-transform: capitalize;
+}
